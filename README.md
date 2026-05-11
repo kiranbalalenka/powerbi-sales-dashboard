@@ -6,7 +6,7 @@ Sales Analysis Dashboard created using Power BI and Excel
 - Excel
 
 ## Project Overview
-This dashboard analyzes sales performance, top products, regional trends, and KPIs.
+This dashboard analyzes sales performance, top products, regional trends, Profit by quarter and KPIs.
 
 ## Key Insights
 - Identified top-performing categories and brands
